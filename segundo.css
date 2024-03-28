@@ -1,9 +1,9 @@
 body{
-    background: -webkit-linear-gradient( #45f58ec2,#07cfd6e1);
+    background: -webkit-linear-gradient( #f5e945c2,#07cfd6e1);
 }
 .ejemplos{
     background-color: rgba(0, 0, 0, 0.452);
-    color:rgb(255, 238, 6);
+    color:rgb(209, 69, 69);
     font-size: 23px;
     margin: 0px;
     padding: 0px;
@@ -15,7 +15,7 @@ h3{
 }
 
 h4{
-    background-color: rgba(0, 0, 0, 0.452);
+    background-color: rgba(161, 107, 107, 0.452);
     color:rgb(125, 22, 173);
     font-size: 22px;
 }
@@ -23,10 +23,10 @@ h4{
         margin-left: 50px;
     }
     .texto-adicional{ 
-        background-color: #3498db; 
+        background-color: #812d03; 
         padding: 10px;
         margin: 0px;
-        color: greenyellow;
+        color: rgba(0, 139, 42, 0.534);
         font-size: 20px;
         text-align: left; 
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 

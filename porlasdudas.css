@@ -9,8 +9,8 @@ body {
     padding: 10px;
     display: flex;
     justify-content: space-between;
-    background-color: #3498db;
-    color: greenyellow;
+    background-color: #111213;
+    color: rgb(255, 78, 47);
     font-size: 17px;
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 .texto-adicional {
-    background-color: #3498db;
+    background-color: #101111;
     padding: 10px;
     margin: 10px;
     color: black;
